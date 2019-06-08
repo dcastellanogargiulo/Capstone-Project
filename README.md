@@ -1,6 +1,6 @@
-USE CASE: Finding a new HQ location for ACME & CO.
+CASE STUDY: Finding a new HQ location for ACME & CO.
 
-Challange:
+Challenge:
 A corporation - ACME & CO. - needs to move to a newer and larger office building to cope with its fast growing number of employees.
 The business is currently located in Chelsea, a neighborhood of the New York City, NY,'s borough of Manhattan.
 The company's Board of Directors agreed to move to a larger and newer office building in the current City borough of Manhattan, NY.
